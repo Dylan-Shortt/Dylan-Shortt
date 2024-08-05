@@ -1,4 +1,4 @@
 -👋 Hi, I’m Dylan-Shortt
 -👀 I’m interested in growing my programming skillset in many different programming languages
--🌱 I’m currently learning Java, Python, and C#
+-🌱 I’m currently learning Java, Python
 -😄 Pronouns: he/him
