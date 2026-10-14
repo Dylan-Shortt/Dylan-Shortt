@@ -7,6 +7,7 @@ IT Tutor and Software Developer based in Cape Town, South Africa. I'm a final-ye
 - **[Coin It Savings](https://github.com/Dylan-Shortt/coin-it-savings)**: Android budgeting app built with Kotlin
 - **[GLMS](https://github.com/Dylan-Shortt/glms-app)**: C# and ASP.NET Core application
 - **Waypoint**: Android travel itinerary app (Kotlin, Jetpack Compose, Firebase), in development
+- **Self-hosted dashboard**: A Self-hosted dashboard for developers to manage one or multiple GitHub repository's
 
 ## Tech I use
 Kotlin, Jetpack Compose, Firebase, TypeScript, Next.js, Supabase, PostgreSQL, Node.js, C#, ASP.NET Core, Blazor, Docker
